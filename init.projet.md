@@ -39,8 +39,8 @@
 
 ## Liens utils
 
-[Dossier](Dossier_final_etudiant_24-25.docx)
-[CDC](Mini_cahier_des_charges.pdf)
+- [Dossier](Dossier_final_etudiant_24-25.docx)
+- [CDC](Mini_cahier_des_charges.pdf)
 
 ## Back home
 
