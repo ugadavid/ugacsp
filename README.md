@@ -7,11 +7,11 @@
 
 ## La Cognitive Load Theory (Théorie de la charge cognitive)
 
-La Cognitive Load Theory (Théorie de la charge cognitive), qui est très utile en conception pédagogique. Cette théorie est centrée sur la manière dont les informations sont traitées par notre mémoire à court terme (ou mémoire de travail) et sur les stratégies pour optimiser cet apprentissage en minimisant les surcharges. Elle distingue trois types de charges cognitives : la charge extrinsèque, la charge intrinsèque et la charge germane. Voici un aperçu des concepts que tu m'as partagés :
+La Cognitive Load Theory (**Théorie de la charge cognitive**), qui est très utile en conception pédagogique. Cette théorie est centrée sur la manière dont les informations sont traitées par notre mémoire à court terme (ou mémoire de travail) et sur les stratégies pour optimiser cet apprentissage en minimisant les surcharges. Elle distingue trois types de charges cognitives : la **charge extrinsèque**, la **charge intrinsèque** et la **charge germane**. Voici un aperçu des concepts :
 
 ### 1. Extraneous Load (Charge extrinsèque)
 
-La charge extrinsèque est liée aux informations inutiles ou à la complexité externe qui rend l'apprentissage plus difficile sans ajouter de valeur. Elle doit être minimisée autant que possible.
+La charge extrinsèque est liée aux _informations inutiles_ ou à la complexité externe qui rend l'apprentissage plus difficile sans ajouter de valeur. Elle doit être minimisée autant que possible.
 
 - Coherence (Cohérence) : Éliminer tout le matériel qui n’est pas essentiel pour l’apprentissage afin d’éviter les distractions.
 - Signalling (Signalisation) : Mettre en évidence l’organisation du contenu essentiel pour guider l'attention de l'apprenant vers les parties importantes.
