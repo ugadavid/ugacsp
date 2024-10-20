@@ -3,9 +3,13 @@
 # Dossier final
 
 <p align="center">UFR LLASIC
+
 Département Sciences du Langage et Didactique des Langues
+
 M1 DILIPEM – Semestre 7
+
 Année universitaire 2024_25
+
 Ce dossier (de 7 à 10 pages bibliographie comprise) a pour but de montrer votre capacité à concevoir des activités numériques à l’aide des outils auteur H5P et LearningApps en adoptant une attitude d’enseignant et de concepteur.</</</p>
 
 ## Votre dossier mettra en évidence :
