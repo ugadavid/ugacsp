@@ -2,7 +2,7 @@
 
 # Dossier final
 
-<p style="text-align:center;">UFR LLASIC
+<p align="center">UFR LLASIC
 Département Sciences du Langage et Didactique des Langues
 M1 DILIPEM – Semestre 7
 Année universitaire 2024_25
