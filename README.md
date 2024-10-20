@@ -59,6 +59,8 @@ La **Cognitive Load Theory** aide à structurer l’apprentissage de façon à *
 | Understand  | To explain ideas, concepts, or construct meaning from written material or graphics                                     | Module revision                | Dictation / Drag and Drop, Drag the words / Fill in the blanks, Mark the words / Multiple choice, Question set / Single choice set Summary                                                  |
 | Remember    | To recall facts, basic concepts, or retrieval of material                                                              | Knowledge check                | Drag and Drop / Drag the words, Fill in the blanks / Flashcards, Guess the answer / Mark the words, Memory game / Multiple choice, Question set / Single choice set Summary / True or False |
 
+![Taxonomie de Bloom](/images/TaxonomieDeBloom.png)
+
 ## Back home
 
 **Description :** Projet central pour organiser et suivre tous mes autres projets.
