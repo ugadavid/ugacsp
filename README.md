@@ -5,6 +5,8 @@
 
 **En local :** \Cours\M1\S1\04-CSP\projet
 
+![Top image, Cognitive Load Theory](/images/top.png)
+
 ## La Cognitive Load Theory (Théorie de la charge cognitive)
 
 La Cognitive Load Theory (**Théorie de la charge cognitive**), qui est très utile en conception pédagogique. Cette théorie est centrée sur la manière dont les informations sont traitées par notre mémoire à court terme (ou mémoire de travail) et sur les stratégies pour optimiser cet apprentissage en minimisant les surcharges. Elle distingue trois types de charges cognitives : la **charge extrinsèque**, la **charge intrinsèque** et la **charge germane**. Voici un aperçu des concepts :
