@@ -48,6 +48,8 @@ La charge germane est celle qui _contribue directement à l’apprentissage_, el
 
 La **Cognitive Load Theory** aide à structurer l’apprentissage de façon à **réduire les charges inutiles** (extrinsèque), **gérer la difficulté naturelle du contenu** (intrinsèque), et **favoriser les processus qui aident réellement à apprendre** (germane). Elle est souvent utilisée en conception multimédia pour concevoir des expériences d'apprentissage qui sont efficaces et qui minimisent la surcharge cognitive.
 
+---
+
 ## Opération / apprentissage
 
 | Blomms Verb | Learning outcome (example)                                                                                             | Activity (example)             | H5P content type                                                                                                                                                                            |
