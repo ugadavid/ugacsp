@@ -21,6 +21,8 @@ La charge extrinsèque est liée aux _informations inutiles_ ou à la complexit�
 - **Spatial Contiguity (Contiguïté spatiale)** : Placer les mots et les images proches les uns des autres pour faciliter la compréhension.
 - **Temporal Contiguity (Contiguïté temporelle)** : Présenter les mots et les images correspondants en même temps plutôt que de manière séparée.
 
+![Extraneous Load](/images/extraneous.jpg)
+
 ### 2. Intrinsic Load (Charge intrinsèque)
 
 La charge intrinsèque est liée à la _complexité inhérente_ au contenu. Elle ne peut être éliminée, mais elle peut être gérée pour la rendre plus accessible.
@@ -28,6 +30,8 @@ La charge intrinsèque est liée à la _complexité inhérente_ au contenu. Elle
 - **Segmenting (Segmentation)** : Diviser le contenu en segments que l’utilisateur peut parcourir à son rythme, au lieu de le présenter d'un seul coup, permet de mieux gérer la quantité d'information à traiter.
 - **Pre-training (Pré-formation)** : Fournir une formation préalable sur les noms et caractéristiques des composants clés peut aider les apprenants à mieux comprendre la matière en réduisant la complexité.
 - **Modality (Modalité)** : Utiliser des graphiques accompagnés de narration plutôt que de graphiques et texte imprimé aide à réduire la charge cognitive en utilisant à la fois les canaux visuel et auditif.
+
+![Intrinsic Load](/images/intrinsic.jpg)
 
 ### 3. Germane Load (Charge germane)
 
@@ -37,6 +41,8 @@ La charge germane est celle qui _contribue directement à l’apprentissage_, el
 - **Personalisation (Personnalisation)** : Utiliser un style conversationnel plutôt qu'un style formel rend l’information plus engageante et plus facile à retenir.
 - **Voice (Voix)** : Parler avec une voix amicale et humaine, et éviter les voix synthétiques, facilite l'engagement et la compréhension.
 - **Image (Image)** : La présence de l’image de l’instructeur sur l’écran n'est pas nécessaire ; ce qui compte, c’est la qualité du contenu, pas la présence visuelle de l’instructeur.
+
+![Germane Load](/images/germane.jpg)
 
 ### En résumé :
 
