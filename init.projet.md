@@ -39,7 +39,7 @@
 
 ## Liens utils
 
-[Dossier](https://github.com/ugadavid/ugacsp/Dossier_final_etudiant_24-25.docx)
+[Dossier](Dossier_final_etudiant_24-25.docx)
 [CDC](Mini_cahier_des_charges.pdf)
 
 ## Back home
