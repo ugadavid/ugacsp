@@ -50,13 +50,14 @@ La **Cognitive Load Theory** aide à structurer l’apprentissage de façon à *
 
 ## Opération / apprentissage
 
-Blomms Verb | Learning outcome (example) | Activity (example) | H5P content type
-Create | To produce a new or original work | Create presentation or podcast | Audio recorder, Documentation tool, Create H5P activities
-Evaluate | To justify a stand or decision; to make judgements based on criteria and standards through checking and critiquing | Reviewing a text | Documentation tool
-Analyse | To draw connections among ideas, concepts, or determining how each part interrelate to an overall structure or purpose | Linking ideas | Documentation tool
-Apply | To use information in new situations such as models, diagrams, or presentations. | Case Study | Documentation tool, Branching scenario Interactive video
-Understand | To explain ideas, concepts, or construct meaning from written material or graphics | Module revision | Dictation / Drag and Drop, Drag the words / Fill in the blanks, Mark the words / Multiple choice, Question set / Single choice set Summary
-Remember | To recall facts, basic concepts, or retrieval of material | Knowledge check | Drag and Drop / Drag the words, Fill in the blanks / Flashcards, Guess the answer / Mark the words, Memory game / Multiple choice, Question set / Single choice set Summary / True or False
+| Blomms Verb | Learning outcome (example)                                                                                             | Activity (example)             | H5P content type                                                                                                                                                                            |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Create      | To produce a new or original work                                                                                      | Create presentation or podcast | Audio recorder, Documentation tool, Create H5P activities                                                                                                                                   |
+| Evaluate    | To justify a stand or decision; to make judgements based on criteria and standards through checking and critiquing     | Reviewing a text               | Documentation tool                                                                                                                                                                          |
+| Analyse     | To draw connections among ideas, concepts, or determining how each part interrelate to an overall structure or purpose | Linking ideas                  | Documentation tool                                                                                                                                                                          |
+| Apply       | To use information in new situations such as models, diagrams, or presentations.                                       | Case Study                     | Documentation tool, Branching scenario Interactive video                                                                                                                                    |
+| Understand  | To explain ideas, concepts, or construct meaning from written material or graphics                                     | Module revision                | Dictation / Drag and Drop, Drag the words / Fill in the blanks, Mark the words / Multiple choice, Question set / Single choice set Summary                                                  |
+| Remember    | To recall facts, basic concepts, or retrieval of material                                                              | Knowledge check                | Drag and Drop / Drag the words, Fill in the blanks / Flashcards, Guess the answer / Mark the words, Memory game / Multiple choice, Question set / Single choice set Summary / True or False |
 
 ## Back home
 
