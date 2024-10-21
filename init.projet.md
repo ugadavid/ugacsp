@@ -1,13 +1,8 @@
 [Accueil](https://github.com/ugadavid/ugacsp)
 
-# Idées scénario
-
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Idées scénario</summary>
 <br>
-This is how you dropdown.
-</details>
-
 - Faire les courses
 - Partir en voyage
 - Faire du shopping entre amis
@@ -42,10 +37,11 @@ This is how you dropdown.
 - Faire un reportage sur un artiste local\*
 - Créer une bande dessinée\*
 - Participer à un concert interactif\*
+</details>
 
 ## Idée retenue
 
-### Visiter un musée et parler de l’art
+# Visiter un musée et parler de l’art
 
 - **Mission** : visiter un musée et discuter de l'exposition avec un guide ou un ami.
 - **Contexte** : les apprenants devront être capables de comprendre des explications sur une œuvre d’art et d’exprimer leur opinion.
