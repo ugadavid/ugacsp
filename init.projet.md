@@ -41,13 +41,14 @@
 
 ### Visiter un musée et parler de l’art
 
-**Mission** : visiter un musée et discuter de l'exposition avec un guide ou un ami.
-**Contexte** : les apprenants devront être capables de comprendre des explications sur une œuvre d’art et d’exprimer leur opinion.
-**Compétences développées** :
+- **Mission** : visiter un musée et discuter de l'exposition avec un guide ou un ami.
+- **Contexte** : les apprenants devront être capables de comprendre des explications sur une œuvre d’art et d’exprimer leur opinion.
 
-- Comprendre une présentation (vocabulaire de l’art, histoire)
-- Poser des questions pour en savoir plus sur une œuvre
-- Exprimer son opinion de manière structurée
+- **Compétences développées** :
+
+  - Comprendre une présentation (vocabulaire de l’art, histoire)
+  - Poser des questions pour en savoir plus sur une œuvre
+  - Exprimer son opinion de manière structurée
 
 ## 1. Contexte d’enseignement-apprentissage
 
