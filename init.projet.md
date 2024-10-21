@@ -41,6 +41,8 @@
 
 ## Idée retenue
 
+![visite musée](/images/initproject.png)
+
 # Visiter un musée et parler de l’art
 
 - **Mission** : visiter un musée et discuter de l'exposition avec un guide ou un ami.
