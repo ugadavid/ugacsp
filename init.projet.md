@@ -2,6 +2,12 @@
 
 # Idées scénario
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 - Faire les courses
 - Partir en voyage
 - Faire du shopping entre amis
