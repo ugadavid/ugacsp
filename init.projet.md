@@ -76,7 +76,7 @@ Pour atteindre cet objectif, voici une structure des différents modules :
 ### Module 1 : Découvrir le vocabulaire de l’art
 
 - **Objectif** : acquérir le vocabulaire de base lié à l’art (ex. couleurs, formes, matériaux, mouvements artistiques).
-  **Activités** :
+- **Activités** :
   - Vidéo explicative sur les termes de base (LearningApps ou H5P).
   - Exercice de matching : Associer les mots à leurs images ou définitions.
   - Quiz interactif pour auto-évaluer la compréhension du vocabulaire.
@@ -92,7 +92,6 @@ Pour atteindre cet objectif, voici une structure des différents modules :
 ### Module 3 : Interagir pendant une visite
 
 - **Objectif** : s'entraîner à poser des questions et exprimer son ressenti.
-
 - **Activités** :
   - Jeux de rôle guidé (H5P) : simulation d'une conversation entre un visiteur et un guide, avec des choix de réponses à sélectionner.
   - Exercice de création de questions : les apprenants doivent formuler des questions à partir d'une image d'une œuvre.
