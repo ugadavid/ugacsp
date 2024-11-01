@@ -93,94 +93,94 @@
 ## FONCTIONS
 ### Interactions sociales
 #### Aborder quelqu’un et demander quelque chose
-– Bonjour! Le métro, s’il vous plaît ?
-– Excusez-moi, il est quelle heure ?
+- Bonjour! Le métro, s’il vous plaît ?
+- Excusez-moi, il est quelle heure ?
 
 #### Faire connaissance avec quelqu’un
-– Bonjour ! Je m’appelle Nicole. Tu t’appelles comment ?
-– Je m’appelle Suzanne, et toi ? / et vous ?
+- Bonjour ! Je m’appelle Nicole. Tu t’appelles comment ?
+- Je m’appelle Suzanne, et toi ? / et vous ?
 
 #### Se présenter / s’informer sur l’identité de l’autre / présenter quelqu’un
-– La jeune femme aux cheveux roux, c’est qui ?
-– C’est Nathalie.
-– Nathalie, voilà mon ami Vincent.
+- La jeune femme aux cheveux roux, c’est qui ?
+- C’est Nathalie.
+- Nathalie, voilà mon ami Vincent.
 
 #### Saluer / prendre congé / remercier / s’excuser
-– Bonjour Madame.
-– Salut Marie.
-– Ça va ? Merci, et toi ? / et vous ?
-– Au revoir.
-– A la prochaine.
-– A bientôt.
-– Merci.
-– Pardon.
-– Excusez-moi.
+- Bonjour Madame.
+- Salut Marie.
+- Ça va ? Merci, et toi ? / et vous ?
+- Au revoir.
+- A la prochaine.
+- A bientôt.
+- Merci.
+- Pardon.
+- Excusez-moi.
 #### Demander de répéter, d’épeler, d’expliquer, de parler plus lentement
-– Est-ce que tu peux répéter la question, s’il te plaît ?
-– Tu écris ça comment?
-– Qu’est-ce que c’est une « voiture d’occasion »?
-– Moins vite, s’il te plait.
+- Est-ce que tu peux répéter la question, s’il te plaît ?
+- Tu écris ça comment?
+- Qu’est-ce que c’est une « voiture d’occasion »?
+- Moins vite, s’il te plait.
 #### Demander et donner des informations personnelles
-– J’ai 18 ans. Tu as quel âge ?
-– J’habite au 935, rue Aubrey. Où est-ce que tu habites ?
-– Je suis de Berlin, et toi ?
-– Tu as des frères et soeurs ?
-– Vous êtes marié(e) ?
+- J’ai 18 ans. Tu as quel âge ?
+- J’habite au 935, rue Aubrey. Où est-ce que tu habites ?
+- Je suis de Berlin, et toi ?
+- Tu as des frères et soeurs ?
+- Vous êtes marié(e) ?
 #### Prendre un rendez-vous (et confirmer / avancer / reporter / annuler)*
-– Je peux parler à Madame Fréchette ?= Bonjour, je voudrais un rendez-vous avec Madame Fréchette.
-– Oui, elle est dans la salle 209= On va au cinéma lundi à 14h, c’est ça ?
-– Elle n’est pas là, elle arrive à 10 heures 30.= Je ne peux pas venir à 11h, plus tôt, c’est possible ?
-– Tu viens au cinéma avec moi, ce soir ?= Désolé, je ne peux pas venir demain, la semaine prochaine, c’est possible ?
-– Désolé, je ne peux pas.
+- Je peux parler à Madame Fréchette ?= Bonjour, je voudrais un rendez-vous avec Madame Fréchette.
+- Oui, elle est dans la salle 209= On va au cinéma lundi à 14h, c’est ça ?
+- Elle n’est pas là, elle arrive à 10 heures 30.= Je ne peux pas venir à 11h, plus tôt, c’est possible ?
+- Tu viens au cinéma avec moi, ce soir ?= Désolé, je ne peux pas venir demain, la semaine prochaine, c’est possible ?
+- Désolé, je ne peux pas.
 
 #### Féliciter / Souhaiter / Faire des compliments
-– Bravo !
-– Très bien !
-– Bonne chance !
+- Bravo !
+- Très bien !
+- Bonne chance !
 
 #### Inviter/offrir : refuser, accepter, remercier
-– Tu veux / peux venir chez moi demain ?
-– Merci de l’invitation.
-– Désolé(e), je ne peux pas. Ma famille fait du camping ce weekend.
+- Tu veux / peux venir chez moi demain ?
+- Merci de l’invitation.
+- Désolé(e), je ne peux pas. Ma famille fait du camping ce weekend.
 
 #### Demander et donner des informations sur des habitudes quotidiennes, un emploi du temps
-– Quand est-ce que tu travailles? Je travaille de 13h à 21h.
-– Je fais du vélo les jeudis après-midi. Et toi, est-ce que tu fais du sport ?
-– J’aime bien jouer au football.
-– Qu’est-ce que tu fais comme sport ?
+- Quand est-ce que tu travailles? Je travaille de 13h à 21h.
+- Je fais du vélo les jeudis après-midi. Et toi, est-ce que tu fais du sport ?
+- J’aime bien jouer au football.
+- Qu’est-ce que tu fais comme sport ?
 
 #### Demander, donner des nouvelles de quelqu’un
-– Comment va Stéphanie ?
-– Ma cousine habite toujours en ville.
+- Comment va Stéphanie ?
+- Ma cousine habite toujours en ville.
 
 #### Parler de ses goûts
-– J’aime les fruits, mais je n’aime pas les légumes.
-– Je n’aime pas aller à la piscine, je préfère la mer.
+- J’aime les fruits, mais je n’aime pas les légumes.
+- Je n’aime pas aller à la piscine, je préfère la mer.
 
 #### Parler de ses projets
-– Ce week-end, je vais à la montagne.
-– Cette fin de semaine, je fête mon anniversaire.
+- Ce week-end, je vais à la montagne.
+- Cette fin de semaine, je fête mon anniversaire.
 
 #### Demander ou proposer de l’aide
-– Tu peux m’aider ?
-– Je peux vous aider ?
+- Tu peux m’aider ?
+- Je peux vous aider ?
 
 #### Interagir au téléphone
-– Allô, c’est Alex Martin.
-– Bonjour, c’est Mélanie. Est-ce que je peux parler à ta soeur, s’il te plaît?
-– Un instant s’il te plaît. Claire, c’est Mélanie.
+- Allô, c’est Alex Martin.
+- Bonjour, c’est Mélanie. Est-ce que je peux parler à ta soeur, s’il te plaît?
+- Un instant s’il te plaît. Claire, c’est Mélanie.
 
 #### Échanger des idées pour une sortie
-– On va se promener ?
-– Non, je n’aime pas le sport, je préfère aller au cinéma, et toi ?
+- On va se promener ?
+- Non, je n’aime pas le sport, je préfère aller au cinéma, et toi ?
 
 #### Descriptions et récits
 
 #### Raconter des événements passés
-– Hier soir, j’ai vu un beau film à la télé.
-– Il a fait beau, la semaine dernière.
+- Hier soir, j’ai vu un beau film à la télé.
+- Il a fait beau, la semaine dernière.
 #### S’informer sur les lieux / Décrire et caractériser des lieux
-– Comment est la plage d’Étretat ? Elle est petite mais très jolie.
+- Comment est la plage d’Étretat ? Elle est petite mais très jolie.
 
 #### Présenter un pays, une ville et ses habitants.
 - La ville d’Ottawa est la capitale du Canada. Les Canadiens sont sympathiques.
