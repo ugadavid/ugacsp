@@ -350,7 +350,7 @@ Opinions et arguments
 - Il est innocent même si tout l’accuse. En effet, bien qu’il mente de temps en temps, il est incapable de faire du mal à quelqu’un.
 
 #### Développer une argumentation logique et cohérente
--Manger local permet de développer l’économie de la région et de créer des emplois.
+- Manger local permet de développer l’économie de la région et de créer des emplois.
 - L’énergie produite par le soleil devrait être le principal but de toutes les recherches énergétiques car celle-ci est inépuisable et présente partout sur la planète.
 
 #### Argumenter une prise de position et la défendre
@@ -513,7 +513,7 @@ Actuellement, les femmes comme les hommes mènent une vie active. Donc, dans les
 - J’insiste, ça me plait plaisir.
 
 #### Les rituels de la lettre formelle, commerciale
--Monsieur le Directeur, comme convenu dans la lettre du 7 janvier, nous vous envoyons les documents dont vous avez besoin pour annuler la réservation.
+- Monsieur le Directeur, comme convenu dans la lettre du 7 janvier, nous vous envoyons les documents dont vous avez besoin pour annuler la réservation.
 - Je vous adresse cette lettre afin de pouvoir réserver une chambre double, pour le 4 mars.
 - En attendant votre réponse, je vous prie d’agréer, Monsieur, l’expression de mes sentiments les plus distingués.
 
@@ -524,10 +524,10 @@ Actuellement, les femmes comme les hommes mènent une vie active. Donc, dans les
 - D’abord, je parlerai des avantages du projet, ensuite de ses inconvénients.
 - Si vous avez des questions n’hésitez pas à les poser.
 - Pour conclure, je dirais que tout a été possible grâce aux efforts de tous mes collègues.
--Merci de votre attention.
+- Merci de votre attention.
 
 #### Les rituels de la communication écrite dans l’entreprise
--Monsieur Dubois a appelé et il demande que vous le contactiez le plus rapidement possible.
+- Monsieur Dubois a appelé et il demande que vous le contactiez le plus rapidement possible.
 - Je m’excuse, je ne pourrai pas assister à la journée de formation qui aura lieu le lundi 15 avril , pour des raisons personnelles. Merci de votre compréhension.
 - Chers collègues, pourrions-nous fixer une date pour faire le bilan sur le dossier « Cerise ».
 - Vous trouverez ci-joint, les documents à télécharger.
@@ -550,7 +550,7 @@ Actuellement, les femmes comme les hommes mènent une vie active. Donc, dans les
 - Et si on prenait quelques jours de vacances ? On pourrait aller dans les Alpes.
 
 #### L’alternance entre passé composé et l’imparfait
--Mes parents se sont séparés quand j’avais dix ans.
+- Mes parents se sont séparés quand j’avais dix ans.
 - Quand je l’ai rencontré, il cherchait une chambre à louer.
 - Comme il pleuvait toujours, on a commandé un autre café.
 
@@ -851,7 +851,7 @@ Actuellement, les femmes comme les hommes mènent une vie active. Donc, dans les
 - Depuis qu’il a été embauché comme cadre, il fait beaucoup d’heures supplémentaires, mais celles-ci sont bien rémunérées.
 
 #### La famille, les relations sociales
--Mes parents ont divorcé quand j’avais cinq ans. La première fois que je les ai revus ensemble, j’avais vingt ans.
+- Mes parents ont divorcé quand j’avais cinq ans. La première fois que je les ai revus ensemble, j’avais vingt ans.
 - Elle veut que sa fille reçoive une bonne éducation, qu’elle apprenne des langues, qu’elle fasse du piano, enfin, qu’elle lui ressemble.
 - Les petits repas entre amis sont à la mode, oubliées les formalités, on reçoit dans le salon, sur la table basse, avec simplicité dans la cuisine. On boit un verre, on grignote, on partage de bons moments.
 - Il veut fêter sa promotion dans un bar branché.
