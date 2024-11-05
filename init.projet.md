@@ -43,7 +43,41 @@
 
 ![visite musée](/images/initproject.png)
 
-# Visiter un musée et parler de l’art
+
+
+# Voyage au musée : explorez, décrivez, partagez ! (05/11/2024)
+## Introduction générale de la séquence : "Voyage au musée : explorez, décrivez, partagez !"
+
+Bienvenue dans cette séquence pédagogique intitulée "Voyage au musée : explorez, décrivez, partagez !", destinée aux étudiants de niveau B1 en FLE. L'objectif de cette séquence est de permettre à chaque participant de découvrir le monde fascinant de l'art, d'affiner ses compétences langagières tout en explorant des œuvres d'art variées, et de s'exprimer de manière créative et personnelle. Vous allez partir pour un voyage virtuel qui vous mènera à la découverte de musées et d'œuvres d'art du monde entier, tout en travaillant sur votre compréhension, votre expression orale, et votre argumentation.
+
+Cette séquence se compose de quatre modules, chacun avec un objectif précis et des activités interactives qui vous permettront de construire progressivement votre propre carnet de visite numérique et un podcast collectif. Voici une vue d'ensemble de chaque module et leur intérêt :
+
+## Module 1 : introduction aux œuvres d'art et vocabulaire
+
+Dans ce premier module, vous allez vous familiariser avec le vocabulaire lié à l'art et choisir une œuvre qui vous accompagnera tout au long de la séquence. Ce choix personnel vous permettra de vous investir pleinement dans la découverte et l'analyse de cette œuvre. Vous commencerez également à créer une fiche descriptive, qui constituera la première pierre de votre carnet de visite numérique.
+
+## Module 2 : analyse et interprétation personnelle
+
+Après avoir choisi votre œuvre, il est temps de l'analyser en profondeur. Ce module vous aidera à développer votre capacité à interpréter une œuvre d'art, à exprimer vos idées et à échanger avec vos pairs à travers un podcast en duo. Cette analyse personnelle vous permettra d'aller au-delà de la simple description et de comprendre les émotions, les messages et les techniques derrière chaque œuvre.
+
+## Module 3 : partage et débat sur les œuvres
+
+Le troisième module est axé sur le partage et l'échange. Vous présenterez votre œuvre aux autres, recevrez leurs commentaires, et participerez à des discussions enrichissantes. Cette phase est essentielle pour améliorer vos compétences d'argumentation et pour affiner vos analyses en prenant en compte de nouveaux points de vue.
+
+## Module 4 : conclusion et assemblage des productions
+
+Pour finir, ce dernier module rapide est consacré à l'assemblage de vos travaux. Vous réunirez toutes vos fiches et épisodes de podcast dans un carnet de visite numérique et un podcast final, créant ainsi un projet collectif qui résume tout votre parcours.
+
+## Un apprentissage à la carte
+
+Chacun des modules a été conçu pour être utilisé de manière autonome. Vous pouvez donc suivre la séquence complète ou choisir de réaliser un module indépendamment, selon vos besoins et disponibilités. Que vous soyez intéressé par l'apprentissage du vocabulaire de l'art, par l'analyse et l'interprétation personnelle, ou par le partage d'idées et le débat, chaque module est une expérience complète en soi.
+
+**Prêts à voyager dans l'univers de l'art ?** Explorez, décrivez, et partagez !
+
+
+
+
+# Visiter un musée et parler de l’art (22/10/2024)
 
 - **Mission** : visiter un musée et discuter de l'exposition avec un guide ou un ami.
 - **Contexte** : les apprenants devront être capables de comprendre des explications sur une œuvre d’art et d’exprimer leur opinion.
