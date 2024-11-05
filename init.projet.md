@@ -75,7 +75,7 @@ Chacun des modules a été conçu pour être utilisé de manière autonome. Vous
 **Prêts à voyager dans l'univers de l'art ?** Explorez, décrivez, et partagez !
 
 
-
+---
 
 # Visiter un musée et parler de l’art (22/10/2024)
 
