@@ -48,6 +48,8 @@
 # Voyage au musée : explorez, décrivez, partagez ! (05/11/2024)
 ## Introduction générale de la séquence : "Voyage au musée : explorez, décrivez, partagez !"
 
+https://artsandculture.google.com/
+
 Bienvenue dans cette séquence pédagogique intitulée "Voyage au musée : explorez, décrivez, partagez !", destinée aux étudiants de niveau B1 en FLE. L'objectif de cette séquence est de permettre à chaque participant de découvrir le monde fascinant de l'art, d'affiner ses compétences langagières tout en explorant des œuvres d'art variées, et de s'exprimer de manière créative et personnelle. Vous allez partir pour un voyage virtuel qui vous mènera à la découverte de musées et d'œuvres d'art du monde entier, tout en travaillant sur votre compréhension, votre expression orale, et votre argumentation.
 
 Cette séquence se compose de quatre modules, chacun avec un objectif précis et des activités interactives qui vous permettront de construire progressivement votre propre carnet de visite numérique et un podcast collectif. Voici une vue d'ensemble de chaque module et leur intérêt :
