@@ -4,7 +4,7 @@
 
 Titre original | Artiste | Date approximative | Informations sur l'œuvre | Lieu de conservation
 ---------------|---------|--------------------|--------------------------|---------------------
-Rue de la Bavole, Honfleur | Claude Monet |	1864 | Inspiré par le charme pittoresque de Honfleur, où Monet a souvent peint pour saisir la lumière et les scènes de la vie quotidienne. | Musée d'Orsay, Paris, France
+[Rue de la Bavole, Honfleur](#a-1) | Claude Monet |	1864 | Inspiré par le charme pittoresque de Honfleur, où Monet a souvent peint pour saisir la lumière et les scènes de la vie quotidienne. | Musée d'Orsay, Paris, France
 Bassin d'Argenteuil | Claude Monet | 1872 | Représentation de la vie à Argenteuil, une ville au bord de la Seine, où Monet aimait capturer les effets de lumière sur l'eau et les bateaux. | Musée d'Orsay, Paris, France
 Automne sur la Seine, Argenteuil | Claude Monet | 1873 | Peint durant l'automne, Monet cherchait à capturer les nuances chaudes et l'effet de la lumière douce sur la Seine. | Musée d'Orsay, Paris, France
 Champ de coquelicots | Claude Monet | 1881 | Inspiré par les paysages fleuris de Giverny, où Monet s’installera plus tard ; une ode à la nature et aux champs de coquelicots en pleine floraison. | Musée d'Orsay, Paris, France
@@ -48,21 +48,30 @@ Trois baigneuses | Auguste Renoir | 1917/1919 | Scène tardive montrant trois fi
 
 
 
-## Rue de la Bavole, Honfleur (Claude Monet - 1864)
-- Inspiration : Cette œuvre est inspirée par le charme pittoresque de Honfleur, un port de Normandie apprécié pour ses ruelles et ses maisons colorées. Honfleur a attiré de nombreux artistes, et Monet y a passé beaucoup de temps pour capturer les lumières changeantes et l’ambiance maritime.
-- Description : Dans ce tableau, Monet représente la rue avec un style réaliste, mais on sent déjà une influence naissante de l’impressionnisme dans son attention portée aux effets de lumière et à l’atmosphère du moment. Les détails des bâtiments, des pavés et de l’éclairage de la rue rendent cette scène vivante et immersive, comme si l’on se promenait soi-même dans Honfleur.
-- Style et mouvement : Cette œuvre se situe aux débuts de l’impressionnisme. Bien que Monet n'ait pas encore pleinement adopté ce style, on sent une approche moins détaillée et plus focalisée sur la capture de l’ambiance et de la lumière. Monet commence ici à abandonner les conventions académiques, s’intéressant davantage à l’expérience visuelle et à l’instantanéité.
+## Rue de la Bavole, Honfleur (Claude Monet - 1864) {#a-1}
+- **Inspiration** : Cette œuvre est inspirée par le charme pittoresque de Honfleur, un port de Normandie apprécié pour ses ruelles et ses maisons colorées. Honfleur a attiré de nombreux artistes, et Monet y a passé beaucoup de temps pour capturer les lumières changeantes et l’ambiance maritime.
+- **Description** : Dans ce tableau, Monet représente la rue avec un style réaliste, mais on sent déjà une influence naissante de l’impressionnisme dans son attention portée aux effets de lumière et à l’atmosphère du moment. Les détails des bâtiments, des pavés et de l’éclairage de la rue rendent cette scène vivante et immersive, comme si l’on se promenait soi-même dans Honfleur.
+- **Style et mouvement** : Cette œuvre se situe aux débuts de l’impressionnisme. Bien que Monet n'ait pas encore pleinement adopté ce style, on sent une approche moins détaillée et plus focalisée sur la capture de l’ambiance et de la lumière. Monet commence ici à abandonner les conventions académiques, s’intéressant davantage à l’expérience visuelle et à l’instantanéité.
 
 ## Bassin d'Argenteuil (Claude Monet - 1872)
-- Inspiration : Monet a trouvé l'inspiration dans le bassin d'Argenteuil, une petite ville le long de la Seine où il a vécu. C’était un lieu prisé pour les loisirs nautiques et les promenades. Monet est particulièrement intéressé par les reflets et la luminosité de l’eau.
-- Description : Ce tableau montre des bateaux amarrés et des reflets subtils dans l’eau, capturant un moment de calme. Monet utilise des touches rapides et des nuances bleutées, jaunes et vertes pour illustrer les effets de la lumière naturelle. L’ensemble de l'œuvre respire la tranquillité et la beauté de la nature.
-- Style et mouvement : Il s’agit d’un exemple clair de l’impressionnisme : Monet utilise des coups de pinceau visibles pour reproduire les effets de lumière. Plutôt que de peindre des détails précis, il cherche à transmettre une sensation visuelle, fidèle à sa perception instantanée de la scène.
+- **Inspiration** : Monet a trouvé l'inspiration dans le bassin d'Argenteuil, une petite ville le long de la Seine où il a vécu. C’était un lieu prisé pour les loisirs nautiques et les promenades. Monet est particulièrement intéressé par les reflets et la luminosité de l’eau.
+- **Description** : Ce tableau montre des bateaux amarrés et des reflets subtils dans l’eau, capturant un moment de calme. Monet utilise des touches rapides et des nuances bleutées, jaunes et vertes pour illustrer les effets de la lumière naturelle. L’ensemble de l'œuvre respire la tranquillité et la beauté de la nature.
+- **Style et mouvement** : Il s’agit d’un exemple clair de l’impressionnisme : Monet utilise des coups de pinceau visibles pour reproduire les effets de lumière. Plutôt que de peindre des détails précis, il cherche à transmettre une sensation visuelle, fidèle à sa perception instantanée de la scène.
 
+## Automne sur la Seine, Argenteuil (Claude Monet - 1873)
+- **Inspiration** : Monet est inspiré par les couleurs chaudes et changeantes de l’automne en bord de Seine. Il trouve dans cette saison une occasion de jouer avec une palette de couleurs plus chaude et une lumière douce.
+- **Description** : Ce tableau met en avant les tons dorés et orangés des arbres, ainsi que la tranquillité du fleuve, qui reflète les arbres et le ciel. Les coups de pinceau restent légers et permettent de capturer le mouvement de l’eau et la douceur de l’atmosphère automnale.
+- **Style et mouvement** : Comme dans ses autres œuvres impressionnistes, Monet travaille ici la lumière et les couleurs, en laissant de côté les contours et les détails réalistes pour se concentrer sur les effets visuels du moment. L’impressionnisme cherche ici à transmettre l’éphémère et la beauté de la nature en mutation.
 
+## Champ de coquelicots (Claude Monet - 1881)
+- **Inspiration** : Monet a souvent peint les champs de coquelicots près de sa maison à Giverny. Il est fasciné par la vivacité de ces fleurs rouges, contrastant avec le vert des champs et le bleu du ciel.
+- **Description** : Ce tableau est dominé par des touches de rouge pour les coquelicots, créant un effet vivant et dynamique. Les personnages qui se promènent dans le champ ajoutent un élément de vie à cette scène paisible. Monet rend la scène lumineuse et joyeuse, capturant l’essence de l’été.
+- **Style et mouvement** : Typique de l’impressionnisme, cette œuvre montre l’utilisation de couleurs pures et un abandon des formes strictes pour représenter une expérience visuelle. Monet laisse des touches visibles de peinture pour montrer l’effet du vent et de la lumière.
 
-
-
-
+## Vue de Vernon (Claude Monet - 1886)
+- **Inspiration** : Vernon est une ville voisine de Giverny, où Monet s’installe plus tard. Fasciné par les scènes locales, il peint cette vue pour capturer le calme et la beauté de la ville depuis les rives de la Seine.
+- **Description** : Ce tableau montre Vernon au bord de l'eau, avec des reflets délicats et une lumière douce, typiques des scènes que Monet aimait peindre. L’usage de couleurs subtiles et de textures légères rend la scène sereine et presque silencieuse.
+- **Style et mouvement** : Bien qu’impressionniste, cette œuvre est moins colorée et plus sobre que d’autres de Monet. Elle illustre son obsession pour l’eau et les reflets, caractéristiques de son travail.
 
 
 
