@@ -260,8 +260,23 @@ Titre original | Artiste | Date approximative | Informations sur l'œuvre | Lieu
 - **Style et mouvement** : Manet adopte ici un style sobre et réaliste, évitant tout embellissement. La simplicité de la composition montre une approche minimaliste et épurée.
 - **Contexte historique** : À cette époque, les artistes commencent à s’intéresser aux objets de la vie quotidienne. L’asperge, un légume simple, est ainsi élevé au rang de sujet artistique, témoignant de l’attention portée aux détails du quotidien.
 
+## Bal masqué à l'Opéra (Édouard Manet - 1873)<a name="a-37"></a> [Top](#a-0)
+- **Inspiration** : Manet, qui fréquente les événements mondains parisiens, trouve ici une source d’inspiration dans les bals masqués de l’Opéra. L’ambiance festive et les costumes attirent son attention pour leur côté théâtral et mystérieux.
+- **Description** : Cette scène animée montre des personnages masqués dansant et conversant. Manet utilise des touches sombres et des éclats de couleurs vives pour capturer l’atmosphère enjouée. Les masques ajoutent une touche de mystère, laissant les identités des invités cachées.
+- **Style et mouvement** : Cette œuvre présente un style réaliste, tout en se rapprochant de l’impressionnisme dans sa manière de capter l’instantanéité de la fête. Manet joue avec les ombres et la lumière pour créer un contraste saisissant.
+- **Contexte historique** : Dans le Paris de la fin du XIXe siècle, les bals masqués sont des événements populaires. Ils symbolisent le faste de la bourgeoisie, mais aussi un espace où les classes sociales se mélangent.
 
+## La Rue Mosnier aux drapeaux (Édouard Manet - 1878)<a name="a-38"></a> [Top](#a-0)
+- **Inspiration** : Manet peint cette œuvre un jour de fête nationale, où les drapeaux français ornent les rues de Paris. Il s’intéresse ici au contraste entre l’euphorie de la fête et les réalités sociales.
+- **Description** : La rue est bordée de drapeaux tricolores, avec au premier plan un personnage amputé, symbole des vétérans de guerre. Manet met en lumière le contraste entre la célébration et la souffrance personnelle, dans une composition sobre mais expressive.
+- **Style et mouvement** : Manet utilise des touches de couleurs vives pour les drapeaux, tout en maintenant un fond plus neutre pour la rue. Son style est réaliste, avec une touche de modernité dans le choix du sujet.
+- **Contexte historique** : Cette œuvre témoigne de l’esprit républicain de l’époque, mais aussi des sacrifices des soldats français. La fête nationale devient ici un décor pour une réflexion sur la société et les blessures de guerre.
 
+## La Femme au perroquet (Gustave Courbet - 1866)<a name="a-39"></a> [Top](#a-0)
+- **Inspiration** : Courbet est inspiré par le thème des femmes élégantes avec des animaux exotiques, un sujet populaire au XIXe siècle. La présence du perroquet ajoute une touche de mystère et d’exotisme à la scène.
+- **Description** : La femme est assise, tenant un perroquet coloré. Courbet utilise une palette de couleurs riches et met l’accent sur la texture, rendant les détails des vêtements et des plumes du perroquet. L’attitude du modèle est à la fois gracieuse et contemplative.
+- **Style et mouvement** : Le style réaliste de Courbet se distingue ici par sa précision dans les détails, capturant l’élégance et l'exotisme. La scène est intime, presque théâtrale, mettant en avant la féminité du modèle.
+- **Contexte historique** : Les artistes du XIXe siècle explorent souvent les thèmes de l’exotisme et de l’élégance féminine, inspirés par l’art et les animaux exotiques importés d'autres continents. Ce tableau fait écho à cette fascination pour l’étrangeté et la beauté.
 
 
 
