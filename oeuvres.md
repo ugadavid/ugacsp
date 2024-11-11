@@ -48,7 +48,7 @@ Trois baigneuses | Auguste Renoir | 1917/1919 | Scène tardive montrant trois fi
 
 
 
-## Rue de la Bavole, Honfleur (Claude Monet - 1864) {#a-1}
+## Rue de la Bavole, Honfleur (Claude Monet - 1864) <a name="a-1"></a>
 - **Inspiration** : Cette œuvre est inspirée par le charme pittoresque de Honfleur, un port de Normandie apprécié pour ses ruelles et ses maisons colorées. Honfleur a attiré de nombreux artistes, et Monet y a passé beaucoup de temps pour capturer les lumières changeantes et l’ambiance maritime.
 - **Description** : Dans ce tableau, Monet représente la rue avec un style réaliste, mais on sent déjà une influence naissante de l’impressionnisme dans son attention portée aux effets de lumière et à l’atmosphère du moment. Les détails des bâtiments, des pavés et de l’éclairage de la rue rendent cette scène vivante et immersive, comme si l’on se promenait soi-même dans Honfleur.
 - **Style et mouvement** : Cette œuvre se situe aux débuts de l’impressionnisme. Bien que Monet n'ait pas encore pleinement adopté ce style, on sent une approche moins détaillée et plus focalisée sur la capture de l’ambiance et de la lumière. Monet commence ici à abandonner les conventions académiques, s’intéressant davantage à l’expérience visuelle et à l’instantanéité.
