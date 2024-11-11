@@ -1,4 +1,4 @@
-**Nav** / [projet](init.projet.md) | [accueil](REDME.md) /
+**Nav** / [projet](init.projet.md) | [accueil](REDME.md) | [oeuvres](oeuvres.md) /
 
 # Peintres francophones
 
