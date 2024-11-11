@@ -46,4 +46,32 @@ Paysage à Pont-Aven | Auguste Renoir | 1892 | Inspiré par le village de Pont-A
 Claude Renoir en costume de clown | Auguste Renoir | 1909 | Scène charmante de son fils Claude en costume, illustrant l'amour de Renoir pour la famille et la vie quotidienne. | Cleveland Museum of Art, États-Unis
 Trois baigneuses | Auguste Renoir | 1917/1919 | Scène tardive montrant trois figures féminines dans un paysage, où Renoir explore la rondeur et la sensualité des formes. | Musée d'Orsay, Paris, France
 
+
+
+## Rue de la Bavole, Honfleur (Claude Monet - 1864)
+- Inspiration : Cette œuvre est inspirée par le charme pittoresque de Honfleur, un port de Normandie apprécié pour ses ruelles et ses maisons colorées. Honfleur a attiré de nombreux artistes, et Monet y a passé beaucoup de temps pour capturer les lumières changeantes et l’ambiance maritime.
+- Description : Dans ce tableau, Monet représente la rue avec un style réaliste, mais on sent déjà une influence naissante de l’impressionnisme dans son attention portée aux effets de lumière et à l’atmosphère du moment. Les détails des bâtiments, des pavés et de l’éclairage de la rue rendent cette scène vivante et immersive, comme si l’on se promenait soi-même dans Honfleur.
+- Style et mouvement : Cette œuvre se situe aux débuts de l’impressionnisme. Bien que Monet n'ait pas encore pleinement adopté ce style, on sent une approche moins détaillée et plus focalisée sur la capture de l’ambiance et de la lumière. Monet commence ici à abandonner les conventions académiques, s’intéressant davantage à l’expérience visuelle et à l’instantanéité.
+
+## Bassin d'Argenteuil (Claude Monet - 1872)
+- Inspiration : Monet a trouvé l'inspiration dans le bassin d'Argenteuil, une petite ville le long de la Seine où il a vécu. C’était un lieu prisé pour les loisirs nautiques et les promenades. Monet est particulièrement intéressé par les reflets et la luminosité de l’eau.
+- Description : Ce tableau montre des bateaux amarrés et des reflets subtils dans l’eau, capturant un moment de calme. Monet utilise des touches rapides et des nuances bleutées, jaunes et vertes pour illustrer les effets de la lumière naturelle. L’ensemble de l'œuvre respire la tranquillité et la beauté de la nature.
+- Style et mouvement : Il s’agit d’un exemple clair de l’impressionnisme : Monet utilise des coups de pinceau visibles pour reproduire les effets de lumière. Plutôt que de peindre des détails précis, il cherche à transmettre une sensation visuelle, fidèle à sa perception instantanée de la scène.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Nav** / [projet](init.projet.md) | [accueil](REDME.md) | [artistes](artistes.md) /
