@@ -43,6 +43,10 @@
 
 ![visite musée](/images/initproject.png)
 
+### Rappel du calendrier
+- entre le 19 novembre (23h59) et le 24 novembre avoir terminé les modules et leur intégration sur Moodle
+- pour le 24 novembre (23h59) avoir déposé les dossiers réflexifs dans le dépôt de devoir prévu
+- avant le 1 décembre (23h59) avoir déposé l’évaluation individuelle du module que chacun.e a pu tester
 
 
 # Voyage au musée : explorez, décrivez, partagez ! (05/11/2024)
