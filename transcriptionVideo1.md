@@ -289,3 +289,31 @@ milieu du port du havre par un froid
 matin d'hiver laisser un petit pouce
 5:37
 bleus
+
+
+
+Vous ne voyez rien ? Éloignez-vous encore un peu. Il n'y a qu'avec le recul que vous percevrez le sujet, la lumière, les ombres, les mouvements. Maintenant que vous avez perçu tout cela, rapprochez-vous encore un peu. Appréciez la touche rapide du peintre, l'épaisseur du dépôt, le mouvement de son poignet.
+
+Aujourd'hui, en plongeant dans un bain de lumière, nous découvrons l'impressionnisme.
+
+L'impressionnisme est à la fois une esthétique et un mouvement. Il voit le jour lorsque le tube de peinture pointe le bout de son nez. Certains artistes décident alors de sortir des ateliers pour peindre en plein air. Parallèlement, le chevalet évolue lui aussi à cette époque pour devenir plus léger. En plus de sortir des ateliers, les peintres peuvent désormais voyager.
+
+Un groupe d'artistes va alors en profiter et quitter les groupes académiques, se détournant des sujets en vogue à l'époque. Pour eux, un sujet en vaut un autre. Ce qui compte, c'est davantage la vision et la recherche picturale de celui qui peint. Ils représentent alors des paysages, mais aussi des scènes de la vie. Ils souhaitent représenter la vie moderne : les villes, les gares, les usines, les loisirs de la société. Certains artistes s'approprient des sujets. On retrouve les guinguettes pour Renoir, les cabarets pour Toulouse-Lautrec et l'opéra pour Degas.
+
+L'impressionnisme est marqué par l'abandon de nombreuses règles académiques, comme le tracé ou la planéité des couleurs. C'est aussi l'expérimentation : on applique les couleurs par juxtaposition, on utilise des tons clairs, on crée une épaisseur sur la toile. C'est une véritable révolution artistique. Manet dira lui-même : « Je peins ce que je vois et non ce qu'il plaît aux autres de voir. »
+
+Leurs œuvres, jugées réactionnaires, sont refusées des salons. Pour remédier à ce problème, ils créent le leur en 1874. Un critique d'art le visite et, pour se moquer, intitule son article « L'Exposition des Impressionnistes », en référence au tableau de Monet Impression, soleil levant. Le nom du mouvement était né.
+
+Tout ce qu'ils reprochent aux toiles de ces artistes, c'est de n'être qu'une impression, une ébauche, un tableau non fini. Pour les impressionnistes, la couleur est très importante. Ils la mélangent très peu, utilisant des couleurs primaires et complémentaires. Leur palette s'éclaircit, ce qui leur permet de peindre la lumière dans le paysage. Ils sont fascinés par les changements de couleurs au cours de la journée et des saisons. Cette fascination donnera naissance à des séries comme Les Nymphéas ou La Cathédrale de Rouen. La touche devient plus rapide, en virgule. Ils peignent sur le vif.
+
+Aujourd'hui encore, de nombreuses discussions visent à savoir si Degas ou Cézanne sont bien des impressionnistes. Monet, peu avant sa mort, écrira : « Je reste désolé d'avoir été la cause d'un nom donné à un groupe dont la plupart n'avaient rien d'impressionnistes. » Car si l'on pense connaître l'impressionnisme en connaissant Monet, on se trompe. De nombreux artistes ayant composé ce groupe, tels que Morisot, Pissarro ou Caillebotte, se démarquent du style de Claude Monet, très influencé par l'art de l'Extrême-Orient.
+
+Si les impressionnistes sont aujourd'hui reconnus, c'est en partie grâce à Paul Durand-Ruel, un galeriste londonien. Ce dernier achètera plusieurs œuvres impressionnistes pour les présenter dans ses expositions à Londres, mais aussi à New York.
+
+L'impressionnisme a pour but de représenter la lumière et ses vibrations. Il cherche à peindre ce qu'il voit, non plus de manière parfaite, mais de la façon la plus réaliste possible, pour que le spectateur ressente le mouvement de l'instant. Lilas au soleil de Monet représente parfaitement ce phénomène. Ce tableau se découvre de deux manières : avec le recul, il ressemble à un classique paysage où l'on voit une belle représentation de la lumière et des ombres sur les lilas. On ressent presque la fraîcheur de l'ombre et la chaleur pesante du soleil. En se rapprochant, on découvre sous les lilas deux jeunes femmes profitant de cette fraîcheur. Ce tableau illustre parfaitement le but de l'impressionnisme : représenter l'instant dans la plus grande fidélité.
+
+On imagine aisément que le peintre lui-même, face à ce paysage, n'avait pas vu ces deux jeunes femmes. Peut-être est-ce ce phénomène d'ombre et de lumière, ce camouflage conférant une aura mystérieuse au sujet, qui l'arrêta et fit de cet instant le sujet de son tableau.
+
+L'impressionnisme est l'un des mouvements qui a le plus marqué notre histoire de l'art. Aujourd'hui encore, il est l'un des plus connus et souvent l'un des plus appréciés. Ce mouvement polymorphe a accueilli en son sein de nombreux grands artistes, parmi lesquels même Gauguin et Van Gogh, qui y firent leurs débuts.
+
+Voilà, cette vidéo est maintenant terminée. J'espère qu'elle vous aura plu. Comme toujours, dites-moi ce que vous en avez pensé dans les commentaires, abonnez-vous pour ne manquer aucune des futures sorties, et si vous ne voulez pas vous retrouver au milieu du port du Havre par un froid matin d'hiver, laissez un petit pouce bleu !
