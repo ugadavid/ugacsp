@@ -1,0 +1,15 @@
+2194 x 1234
+
+Excellent. Par contre on ne peux pas illustrer cette app :( Je vais voir avec Genialy si je peux ajouter quelque chose quand j'assemblerais la version finale :D
+
+<iframe src="https://learningapps.org/watch?v=p7rp9cxm324" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?v=p07v8sa7t24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?v=pocvchm9c24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?v=pi97q29rc24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<iframe src="https://learningapps.org/watch?v=pwfikbhha24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
